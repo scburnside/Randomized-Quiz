@@ -1,6 +1,6 @@
 # Randomized Quiz
 
-This quiz program randomly selects a set of questions from a questionbank, randomizes the order of the choices, and returns the results of the quiz.  
+This quiz program randomly selects a set of questions from a question bank, randomizes the order of the choices, and returns the results of the quiz.  
 
 ![screenshots](/screenshots/demo.png)
 
