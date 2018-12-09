@@ -16,7 +16,7 @@ This quiz program randomly selects a set of questions from a questionbank, rando
     
     ![screenshots](/screenshots/tableStructure.png)
 
-    Add mock data or real data to create your question bank.  
+3) Add mock data or real data to create your question bank.  
     (The default files are configured for 15 questions in the question bank)
     
     ![screenshots](/screenshots/table.png)
