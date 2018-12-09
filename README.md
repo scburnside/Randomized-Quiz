@@ -13,10 +13,12 @@ This quiz program randomly selects a set of questions from a questionbank, rando
 
 2) Create a working database
     Create a table with six fields, "quizId", "question", "choice1", "choice2", "choice3", and "answer".  The quizId field should be set as the primary key. 
+    
     ![screenshots](/screenshots/tableStructure.png)
 
     Add mock data or real data to create your question bank.  
     (The default files are configured for 15 questions in the question bank)
+    
     ![screenshots](/screenshots/table.png)
 
 # Configuration
